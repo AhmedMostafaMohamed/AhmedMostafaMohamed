@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Ahmed Mostafa]
+# Hi there! 👋 I'm Ahmed Mostafa
 
 🚀 Full-stack Developer | Open-Source Contributor | Tech Enthusiast  
 
@@ -19,4 +19,3 @@
 - 🛍 **E-commerce App** - A full-stack mobile app for online shopping  
 - 📈 **Finance Tracker** - A tool to track expenses and income  
 
-🔥 **Fun Fact:** I love chess and my rating is 2000+ on Lichess!  
