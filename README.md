@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedmostafa1on1@gmail.com)
 
 📊 **GitHub Stats:**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedMostafaMohamed&show_icons=true&theme=dark)
 
 🎯 **Projects & Contributions:**  
 - 🛍 **E-commerce App** - A full-stack mobile app for online shopping  
