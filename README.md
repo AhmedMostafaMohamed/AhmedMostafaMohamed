@@ -49,8 +49,6 @@ A marketplace where contractors, technicians, and workers can connect, find jobs
 ✅ Added **Deep Linking** for seamless navigation from external links  
 ✅ Ensured **multi-language support** (English & Arabic)  
 
-📢 **Launching in a week!** Stay tuned for the App Store & Play Store links! 🚀  
-
 
 
 
