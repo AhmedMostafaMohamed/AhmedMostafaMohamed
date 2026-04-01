@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Ahmed Mostafa
-🚀 Backend & DevOps Engineer | Tech Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&width=500&lines=Backend+%26+DevOps+Engineer;Django+%7C+Flask+%7C+Docker+%7C+PostgreSQL;Building+SaaS+platforms+%26+HR+integrations)](https://git.io/typing-svg)
 
 💻 **Tech Stack:**
 
@@ -19,9 +20,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AhmedMostafaMohamed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedmostafa1on1@gmail.com)
 
-📊 **GitHub Stats:**
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMostafaMohamed&hide=stars&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMostafaMohamed&layout=compact&theme=dark)
+📊 **GitHub Activity:**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedMostafaMohamed&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 Projects & Contributions
 
