@@ -20,10 +20,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AhmedMostafaMohamed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedmostafa1on1@gmail.com)
 
-📊 **GitHub Activity:**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedMostafaMohamed&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ## 🏆 Projects & Contributions
 
 ### 📌 **Open Source & Personal Projects**
